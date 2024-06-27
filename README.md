@@ -12,7 +12,7 @@ These are the solutions to the challenges on the badge.
 
 ## Soldering Workshop
 
-This guide will tell you how to assemble your LED Name Tag Kit at the Off-By-One conference. This is project is suitable for beginners to learn about soldering techniques 
+This guide will tell you how to assemble your LED Name Tag Kit at the Off-By-One conference. This project is suitable for beginners to learn about soldering techniques 
 
 ***[Soldering Workshop Guide.pdf](<Soldering Workshop Guide.pdf>)***
 
