@@ -6,6 +6,10 @@ These are the instructions on how to get started and hack your badge. The hardwa
 
 ***[Conference Badge.pdf](<Conference Badge.pdf>)***
 
+These are the solutions to the challenges on the badge.
+
+***[Solution](./Solution)***
+
 ## Soldering Workshop
 
 This guide will tell you how to assemble your LED Name Tag Kit at the Off-By-One conference. This is project is suitable for beginners to learn about soldering techniques 
